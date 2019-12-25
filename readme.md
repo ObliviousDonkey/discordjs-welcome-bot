@@ -15,3 +15,4 @@ https://github.com/Exploit1337/jimp-discordjs
 
 Need help?
 Add me on discord: Exploit#1337
+[![Run on Repl.it](https://repl.it/badge/github/Exploit1337/discordjs-welcome-bot)](https://repl.it/github/Exploit1337/discordjs-welcome-bot)
